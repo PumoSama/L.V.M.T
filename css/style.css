@@ -1,5 +1,10 @@
-nav.nav {
-   display: flex; 
-   width: 2000px;
+nav.nav{
+display: flex;
+list-style: none;
+}
+header.header {
+display: flex;
+align-items: center;
+background-color: green;
 }
 
